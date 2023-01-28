@@ -10,4 +10,8 @@
 .button {
     top: 35%;
 }
+.advice {
+    margin-top: -30px;
+    max-height: 130px;
+}
  }
