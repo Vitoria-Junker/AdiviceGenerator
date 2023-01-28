@@ -1,0 +1,13 @@
+@media (max-width: 550px)
+{ .container {
+    max-width: 300px;
+    max-height:300px;
+}
+
+.divider {
+    max-width: 250px;
+}
+.button {
+    top: 35%;
+}
+ }
